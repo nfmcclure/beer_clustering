@@ -2,7 +2,7 @@
 ##
 ## text_clustering_funs.py: Helper functions for text clustering
 ##
-## Created: Feb, 2015
+## Created: Feb, 2016
 ##
 ##------------------------------------------------------------
 import csv
