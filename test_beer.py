@@ -2,7 +2,7 @@
 ##
 ## Nose- Unit tests for Beer Clustering
 ##
-## Created: Feb, 2015
+## Created: Feb, 2016
 ##
 ##------------------------------------------------------------
 import text_clustering_funs
