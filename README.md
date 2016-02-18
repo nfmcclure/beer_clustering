@@ -15,7 +15,7 @@ Data is available here: https://www.dropbox.com/s/3jlokbq7tjnbyr2/beer_reviews.c
 ## Unit testing
 With the python packages: 'nose' and 'coverage' installed, navigate to main directory and run:
 
-    nosettests --with-coverage --cover-package=text_clustering_funs.py
+    nosettests --with-coverage --cover-package=text_clustering_funs
 
 To get the following outputs:
 
