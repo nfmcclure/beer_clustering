@@ -7,7 +7,7 @@
 ##          text features created from reviews of such beers
 ##          via the SVD principle components.
 ##
-## Created: Feb, 2015
+## Created: Feb, 2016
 ##
 ##------------------------------------------------------------
 # Load libraries
